@@ -1,5 +1,5 @@
 Requisitos funcionais para o sistema de controle de gastos da marcenaria
-RF1 Cadastrar o marceneiro responsável 
+RF1 Cadastrar o marceneiro responsável- nome, cpf, cnpj 
 RF2  Cadastrar revendedores de materiais 
 RF3 Cadastrar nome dos projetos ou de produtos ex: cozinha, closet 
 RF4 Cadastrar os dados dos clientes e orçamentos 
