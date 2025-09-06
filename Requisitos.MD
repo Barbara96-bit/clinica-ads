@@ -11,3 +11,9 @@ RU1 Permitir alteração de dados dos clientes
 RU2 Permitir a inclusão de novos materiais e a exclusão dos mesmos
 RU3 Quero gerar relatorios mensais de despesas e lucros 
 RU4 Quero receber notificação de quando o prazo para entrega de um projeto estiver próximo 
+RNF1 O sistema deve ser fácil de usar com interface simples e intuitiva para usuarios com pouco conhecimento técnico
+RFN2 O sistema deve ter cores claras e fonte grande 
+RFN3 O sistema deve responder em menos de 5 segundos 
+RFN4 O sistema deve funcionar 99% do tempo
+RFN5 O sistema deve funcionar no Android e no celular
+
