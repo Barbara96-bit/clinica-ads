@@ -12,7 +12,8 @@ RF10 Acesso de multiusários- Donos e funcionários com permissões especificas
 RU1 Permitir alteração de dados dos clientes 
 RU2 Permitir a inclusão de novos materiais e a exclusão dos mesmos
 RU3 Quero gerar relatorios mensais de despesas e lucros 
-RU4 Quero receber notificação de quando o prazo para entrega de um projeto estiver próximo 
+RU4 Quero receber notificação de quando o prazo para entrega de um projeto estiver próximo
+RU5 Quero criar orçamentos para clientes, baseados nos custos estimados e acompnahr o status (aprovado, pendente, recusado)
 RNF1 O sistema deve ser fácil de usar com interface simples e intuitiva para usuarios com pouco conhecimento técnico
 RFN2 O sistema deve ter cores claras e fonte grande 
 RFN3 O sistema deve responder em menos de 5 segundos 
