@@ -7,6 +7,8 @@ RF5 Cadastro de insumos e materiais
 RF6 Calculo de custos por projetos 
 RF7 Controle de receita 
 RF8 Associar essa receita a clientes especificos 
+RF9 Registrar vendas feitas 
+RF10 Acesso de multiusários- Donos e funcionários com permissões especificas 
 RU1 Permitir alteração de dados dos clientes 
 RU2 Permitir a inclusão de novos materiais e a exclusão dos mesmos
 RU3 Quero gerar relatorios mensais de despesas e lucros 
