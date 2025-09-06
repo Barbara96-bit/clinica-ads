@@ -1,0 +1,13 @@
+Requisitos funcionais para o sistema de controle de gastos da marcenaria
+RF1 Cadastrar o marceneiro responsável 
+RF2  Cadastrar revendedores de materiais 
+RF3 Cadastrar nome dos projetos ou de produtos ex: cozinha, closet 
+RF4 Cadastrar os dados dos clientes e orçamentos 
+RF5 Cadastro de insumos e materiais
+RF6 Calculo de custos por projetos 
+RF7 Controle de receita 
+RF8 Associar essa receita a clientes especificos 
+RU1 Permitir alteração de dados dos clientes 
+RU2 Permitir a inclusão de novos materiais e a exclusão dos mesmos
+RU3 Quero gerar relatorios mensais de despesas e lucros 
+RU4 Quero receber notificação de quando o prazo para entrega de um projeto estiver próximo 
